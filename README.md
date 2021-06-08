@@ -1,6 +1,7 @@
-# new-vue-project2
+# vue-spa
 
 ## Project setup
+
 ```
 npm install
 ```
